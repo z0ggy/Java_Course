@@ -1,4 +1,4 @@
-package chapter6;
+package chapter6_Clases_Object_Encapsulation;
 
 /*
 Write a class that creates instances of the Rectangle class to find the total area of two rooms in a house. 

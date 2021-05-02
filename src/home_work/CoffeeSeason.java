@@ -20,7 +20,7 @@ public class CoffeeSeason {
         String adjective = scanner.next();
 
         // Display output
-        System.out.println("On a " + adjective +" "+ season + " day, I drink a minimum of " + cups + " of coffee." );
+        System.out.println("On a " + adjective + " " + season + " day, I drink a minimum of " + cups + " of coffee.");
 
     }
 }

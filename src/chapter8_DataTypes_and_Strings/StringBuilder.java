@@ -1,4 +1,4 @@
-package chapter8;
+package chapter8_DataTypes_and_Strings;
 
 public class StringBuilder {
     public static void main(String[] args) {

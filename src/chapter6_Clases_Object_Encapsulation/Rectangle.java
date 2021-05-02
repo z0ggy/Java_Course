@@ -1,4 +1,4 @@
-package chapter6;
+package chapter6_Clases_Object_Encapsulation;
 
 /*
 Write a class that describes the fields and methods of a rectangle.

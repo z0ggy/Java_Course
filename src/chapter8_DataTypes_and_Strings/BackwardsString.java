@@ -1,4 +1,4 @@
-package chapter8;
+package chapter8_DataTypes_and_Strings;
 
 /*
 Write a method that prints a given String backwards. For example, if given camel, it prints

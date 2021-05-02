@@ -1,4 +1,4 @@
-package chapter8;
+package chapter8_DataTypes_and_Strings;
 
 /*
 Write a method that counts the number of words in a String and prints them individually on a new line.

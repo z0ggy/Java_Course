@@ -1,4 +1,4 @@
-package chapter7;
+package chapter7_Arrays_Search_and_Tricks;
 
 import java.util.Random;
 

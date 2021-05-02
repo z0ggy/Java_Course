@@ -1,4 +1,4 @@
-package chapter6;
+package chapter6_Clases_Object_Encapsulation;
 
 public class Month {
 
