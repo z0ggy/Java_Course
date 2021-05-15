@@ -1,0 +1,16 @@
+SET
+-Unordered unique elements
+
+
+LIST
+-Ordered elements which can be accessed by position
+
+
+QUEUE
+-Ordered elements for processing
+-Access in the order elements were added
+-(FIFO: first in- first out)
+
+
+MAP
+-Unordered unique key-value pairs

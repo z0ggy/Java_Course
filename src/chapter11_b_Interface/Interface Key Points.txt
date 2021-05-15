@@ -1,0 +1,14 @@
+NOT for INSTANTIATION
+Interfaces cannot be instantiated
+
+
+IMPLEMENT
+Interfaces are implemented (not extended)
+
+
+ABSTRACT if not IMPLEMENTED
+Any class that implemented an interface, must implement all of its methods or it must declare itself abstract
+
+
+ABSTRACT METHODS
+Methods in an interface must be abstract (no explicit declaration needed) or default
